@@ -1,5 +1,4 @@
-# Gesture-Controlled Smart Wheelchair Prototype
-
+# INTENT—Human–Machine Interface for Mobility
 [![ESP32](https://img.shields.io/badge/Board-ESP32%20WROOM--32-blue)](https://www.espressif.com/)
 [![Arduino-ESP32](https://img.shields.io/badge/Core%20Version-3.x-orange)](https://github.com/espressif/arduino-esp32)
 [![Build](https://github.com/sam-black007/gesture-controlled-wheelchair/actions/workflows/build.yml/badge.svg)](https://github.com/sam-black007/gesture-controlled-wheelchair/actions/workflows/build.yml)
